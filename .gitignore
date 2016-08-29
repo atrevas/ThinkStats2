@@ -21,6 +21,8 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+code/.ipynb_checkpoints/*
+
 
 # Installer logs
 pip-log.txt
